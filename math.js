@@ -9,7 +9,7 @@ exports.PI = PI;
 
 // =========================
 // module.exports = 'Hi'
-// module.exports.add = add;
+module.exports.add = add;
 // module.exports.PI = PI;
 // module.exports.square = square;
 
